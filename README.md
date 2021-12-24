@@ -14,8 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lakshantha's github stats](https://github-readme-stats.vercel.app/api?username=lakshanthad)](https://github.com/lakshanthad)
+<h1 align='center'> Hi there 👋, I'm Lakshantha 👨‍💻 </h1>
 
-<a href="https://github.com/lakshanthad">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lakshanthad&layout=compact&theme=material-palenight" />
-</a>
+<p align='center'>
+  Exploring The Open Source Electronics World @seeedstudio
+</p>
+
+
+<p align='center'>
+  <a href="https://twitter.com/lakshanthad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lakshanthad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lakshanthad@gmail.com?subject=Hello%20Lakshantha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+![lakshantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshanthad&show_icons=true&theme=material-palenight&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanthad&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
